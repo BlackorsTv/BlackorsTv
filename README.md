@@ -27,9 +27,6 @@
     <a herf="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
         <img align="center" height="28px" src="./assist/language/bootstrap.png">
     </a>
-    <a herf="https://en.wikipedia.org/wiki/JQuery">
-        <img align="center" height="28px" src="./assist/language/jQuary.png">
-    </a>
 </div>
 
 ## <img align="center" src="./assist/icon/code.png" width="30px"> Game Development
